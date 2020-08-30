@@ -8,7 +8,7 @@ major = 0
 minor = 20
 patch = 2
 version = '.'.join([str(v) for v in [major, minor, patch]])
-url = 'https://github.com/dunovank/jupyter-themes'
+url = 'https://github.com/nlg/jt'
 download_url = '/'.join([url, 'tarball', 'v' + version])
 
 
